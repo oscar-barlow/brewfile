@@ -15,3 +15,4 @@ brew "pinentry"
 # Casks
 cask "beekeeper-studio"
 cask "caffeine"
+cask "tomighty"
