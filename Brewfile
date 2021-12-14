@@ -13,6 +13,7 @@ brew "gh"
 brew "pinentry"
 brew "tflint"
 brew "conftest"
+brew "coreutils"
 
 # Casks
 cask "beekeeper-studio"
