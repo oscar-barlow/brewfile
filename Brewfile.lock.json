@@ -632,6 +632,12 @@
         "options": {
           "full_name": "tomighty"
         }
+      },
+      "google-cloud-sdk": {
+        "version": "latest",
+        "options": {
+          "full_name": "google-cloud-sdk"
+        }
       }
     }
   },
@@ -640,10 +646,10 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.3.8",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "db78e972206074694c17d78a9a41024676c37423",
+        "Homebrew/homebrew-core": "30591d35479e2477220267d2c4a680f8e4501665",
         "CLT": "13.2.0.0.1.1638488800",
         "Xcode": "13.1",
-        "macOS": "12.0.1"
+        "macOS": "12.1"
       }
     }
   }
