@@ -11,6 +11,7 @@ brew "git"
 brew "z"
 brew "gh"
 brew "pinentry"
+brew "tflint"
 
 # Casks
 cask "beekeeper-studio"
