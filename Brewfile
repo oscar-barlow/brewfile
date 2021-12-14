@@ -12,6 +12,7 @@ brew "z"
 brew "gh"
 brew "pinentry"
 brew "tflint"
+brew "conftest"
 
 # Casks
 cask "beekeeper-studio"
