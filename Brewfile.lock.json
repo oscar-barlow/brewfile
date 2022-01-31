@@ -755,6 +755,12 @@
         "options": {
           "full_name": "zoom"
         }
+      },
+      "xmind": {
+        "version": "3.7.9.201912052356,8-update9",
+        "options": {
+          "full_name": "xmind"
+        }
       }
     }
   },
@@ -763,7 +769,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.3.13",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "b411b08ef3f82941d82ac3bc259d38e20d3c8198",
+        "Homebrew/homebrew-core": "516f0570ebc10d815ad09c64d31470322da5cd3c",
         "CLT": "13.2.0.0.1.1638488800",
         "Xcode": "13.1",
         "macOS": "12.2"
