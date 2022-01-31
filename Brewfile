@@ -14,9 +14,13 @@ brew "pinentry"
 brew "tflint"
 brew "conftest"
 brew "coreutils"
+brew "golang"
+brew "kafka"
+brew "dbt-snowflake"
 
 # Casks
 cask "beekeeper-studio"
 cask "caffeine"
 cask "tomighty"
 cask "google-cloud-sdk"
+cask "zoom"
