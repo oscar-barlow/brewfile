@@ -19,6 +19,7 @@ brew "kafka"
 brew "dbt-snowflake"
 
 # Casks
+cask "gpg-suite"
 cask "beekeeper-studio"
 cask "caffeine"
 cask "tomighty"
