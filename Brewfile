@@ -17,6 +17,9 @@ brew "coreutils"
 brew "golang"
 brew "kafka"
 brew "dbt-snowflake"
+brew "openssl"
+brew "awscli"
+brew "xmlstarlet"
 
 # Casks
 cask "gpg-suite"
