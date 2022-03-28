@@ -20,6 +20,7 @@ brew "dbt-snowflake"
 brew "openssl"
 brew "awscli"
 brew "xmlstarlet"
+brew "jless"
 
 # Casks
 cask "gpg-suite"
